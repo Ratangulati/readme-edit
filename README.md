@@ -1,13 +1,56 @@
+###  Ratan Gulati
 
-# About Me
-
-Hello! 👋 I'm Ratan Gulati, an aspiring DevOps, and Cloud Engineer with a love for open-source software and technology. I'm based in India, and I'm always excited to learn and collaborate on interesting projects.
-
-## 🚀 Quick Intro
-
-- 🔭 I’m currently working on Cloud Technologies and doing some projects related to that.
-- 🌱 I’m currently learning AWS, Docker, Kubernetes and Jenkins.
-- 👯 I’m looking to collaborate on projects related to Cloud and DevOps.
-- 😄 Pronouns: He/Him.
+#### Learner
+<img align="right" alt="coding" width="400" src="https://www.careerguide.com/career/wp-content/uploads/2021/08/Full-Stack-Developer-1.gif">
+Learner • Open Source Enthusiast • passionate about coding • I love collaboration • 
 
 
+#### Techstack: [![Python](https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white)]() ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?flat&logo=amazon-aws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?flat&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?flat&logo=terraform&logoColor=white)
+
+ 
+- 🌱 I’m currently learning  JAVA
+- 😄 Pronouns: He/Him 
+- 📧 Contact me : i.ratangulati@gmaill
+
+---
+
+## 🌐 Socials: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i_am_arindam_official?igshid=YmMyMTA2M2Y=) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ratangulati/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ratanstwt) [![hashnode](http://img.shields.io/badge/-Hashnode-2962ff?style=flat&logo=hashnode&logoColor=white)](https://ratangulati.hashnode.dev/)
+
+<a href="https://twitter.com/ratanstwt" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/ratanstwt?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a><a href="https://github.com/Ratangulati?tab=overview&from=2023-02-01&to=2023-02-02" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Ratangulati?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+ 
+
+<details>
+
+<summary><h2>My GitHub Stats</h2></summary>
+
+<div align = "center">
+
+<h2>My GitHub Stats<img src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif"/></h2>
+
+</div>
+
+
+<div align="center">
+<table>
+<tr>
+<td width="45%">
+<a href="https://github.com/Ratangulati?tab=overview&from=2023-02-01&to=2023-02-02"><img src="https://github-readme-stats.vercel.app/api?username=Ratangulati&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Ratangulati's GitHub stats" /></a> 
+
+</td>
+<td width="45%">
+ <a href="https://github.com/Ratangulati?tab=overview&from=2023-02-01&to=2023-02-02"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ratangulati&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+ 
+</table>
+
+
+</div>
+</td>
+</tr>
+
+[![Ratan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ratangulati)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</details>
