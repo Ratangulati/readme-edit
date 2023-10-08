@@ -18,12 +18,13 @@ Aspiring DevOps engineer • Open Source Enthusiast • passionate about coding 
 
 <a href="https://twitter.com/ratanstwt" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/ratanstwt?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://github.com/Ratangulati?tab=overview&from=2023-02-01&to=2023-02-02" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Ratangulati?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+ /></a>
+<!-- <a href="https://github.com/Ratangulati?tab=overview&from=2023-02-01&to=2023-02-02" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Ratangulati?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> -->
 
  
 
-<details>
+<details> 
 
 <summary><h2>My GitHub Stats</h2></summary>
 
