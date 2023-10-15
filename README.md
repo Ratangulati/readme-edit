@@ -24,7 +24,8 @@ src="https://img.shields.io/twitter/follow/ratanstwt?logo=twitter&style=for-the-
 src="https://img.shields.io/github/followers/Ratangulati?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> 
 -->
  
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ratangulati)
+ 
 <details> 
 
 <summary><h2>My GitHub Stats</h2></summary>
@@ -56,3 +57,4 @@ src="https://img.shields.io/github/followers/Ratangulati?logo=github&style=for-t
 [![Ratan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ratangulati)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </details>
+
