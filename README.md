@@ -1,11 +1,11 @@
-###  Ratan Gulati
+#  Ratan Gulati
 
-#### Learner
+
 <img align="right" alt="coding" width="400" src="https://www.darwinrecruitment.no/wp-content/uploads/2022/03/About-us-Temp-to-Perm.gif">
 Aspiring DevOps engineer • Open Source Enthusiast • Passionate about coding • I love collaboration • 
 
 
-#### Techstack: [![Python](https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white)]() ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?flat&logo=amazon-aws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?flat&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?flat&logo=terraform&logoColor=white)
+## 🚀 Techstack: [![Python](https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white)]() ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?flat&logo=amazon-aws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?flat&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?flat&logo=terraform&logoColor=white)
 
  
 - 🌱 I’m currently learning  JAVA, AWS
@@ -16,12 +16,13 @@ Aspiring DevOps engineer • Open Source Enthusiast • Passionate about coding 
 
 ## 🌐 Socials: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i_am_arindam_official?igshid=YmMyMTA2M2Y=) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ratangulati/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ratanstwt) [![hashnode](http://img.shields.io/badge/-Hashnode-2962ff?style=flat&logo=hashnode&logoColor=white)](https://ratangulati.hashnode.dev/)
 
+<!--
 <a href="https://twitter.com/ratanstwt" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/ratanstwt?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
  /></a>
-<!-- <a href="https://github.com/Ratangulati?tab=overview&from=2023-02-01&to=2023-02-02" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Ratangulati?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> -->
-
+ <a href="https://github.com/Ratangulati?tab=overview&from=2023-02-01&to=2023-02-02" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Ratangulati?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> 
+-->
  
 
 <details> 
