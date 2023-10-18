@@ -25,7 +25,8 @@ src="https://img.shields.io/github/followers/Ratangulati?logo=github&style=for-t
 -->
  
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ratangulati)
- 
+
+<!-- 
 <details> 
 
 <summary><h2>My GitHub Stats</h2></summary>
@@ -58,3 +59,4 @@ src="https://img.shields.io/github/followers/Ratangulati?logo=github&style=for-t
 
 </details>
 
+-->
