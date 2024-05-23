@@ -8,7 +8,7 @@ Aspiring DevOps engineer • Open Source Enthusiast • Passionate about coding 
 ## 🚀 Techstack: [![Python](https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white)]() ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?flat&logo=amazon-aws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?flat&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?flat&logo=terraform&logoColor=white)
 
  
-- 🌱 I’m currently learning  JAVA, AWS
+- 🌱 I’m currently learning  MERN, AWS
 - 😄 Pronouns: He/Him 
 - 📧 Contact me: i.ratangulati@gmaill
 
