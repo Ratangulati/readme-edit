@@ -10,14 +10,15 @@ Aspiring DevOps engineer • Open Source Enthusiast • Passionate about coding 
 - 🌱 I'm currently learning MERN and AWS
 - 📧 Contact me: ratangulati.dev@gmail.com
 
-## 🚀 Tech Stack
+## My Tech Stack
 
-![Python](https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?flat&logo=amazon-aws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?flat&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?flat&logo=terraform&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=java,js,ts,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,react,nodejs,express,nextjs,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,prisma,postgres,cloudflare,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,bash,docker,jenkins,kubernetes,grafana,prometheus,terraform,ansible)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,)](https://skillicons.dev)
+
 
 ## 🌐 Connect with Me
 
@@ -25,6 +26,7 @@ Aspiring DevOps engineer • Open Source Enthusiast • Passionate about coding 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ratangulati/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ratanstwt)
 [![Hashnode](http://img.shields.io/badge/-Hashnode-2962ff?style=flat&logo=hashnode&logoColor=white)](https://ratangulati.hashnode.dev/)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/ratangulati)
 
 ---
 
